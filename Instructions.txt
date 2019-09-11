@@ -1,0 +1,12 @@
+Kevin Yeung CS228 September 10, 2019
+*******************NUMPY_FIX***************************
+In CMD as ADMIN:
+    1. cd\  ---> Navigate to python file, usually in C: 
+    2. cd Python27 ---> Enter python 2.7 root folder
+    3. Python -m pip install numpy.whl ---> Install any .whl file, in this case the provided numpy
+    4. python ---> Test numpy installation by importing and checking numpy version
+(In cmd python)
+>>import numpy
+>>numpy.version.version
+
+**************numpy.py is NOT MY FILE*****************
